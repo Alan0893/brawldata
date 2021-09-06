@@ -1,0 +1,7 @@
+exports.Client        = require('./src/Client.js')
+exports.Events        = require('./src/Events.js')
+exports.Brawlers      = require('./src/Brawlers.js')
+exports.Maps          = require('./src/Maps.js')
+exports.Modes         = require('./src/Modes.js')
+exports.Records       = require('./src/Records.js')
+exports.Icons         = require('./src/Icons.js')

@@ -1,0 +1,27 @@
+{
+  "name": "brawldata",
+  "version": "1.0.0",
+  "description": "API Wrapper for BrawlAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan0893/brawldata.git"
+  },
+  "keywords": [
+    "Brawlify",
+    "Brawlstars",
+    "Brawlify",
+    "API",
+    "Brawlify",
+    "Javascript"
+  ],
+  "author": "Alan0893",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Alan0893/brawldata/issues"
+  },
+  "homepage": "https://github.com/Alan0893/brawldata#readme"
+}
