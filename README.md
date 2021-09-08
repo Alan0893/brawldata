@@ -5,12 +5,12 @@
 1. To install this package, in your console run: `npm install brawldata`
 2. You have now installed the package!
 
-## To clone this repository
+### To clone this repository
 1. To install this package, in your console run: `git clone https://github.com/Alan0893/brawldata.git` 
 2. In your package.json, add `"brawldata": "file:brawldata"` in your dependencies
 3. You have now installed the package!
 
-### Problems with `git`
+#### Problems with `git`
 > **'git' is not recognized as an internal or external command, operable program or batch file.**
 If you get the error stated above, follow the instructions below:
 1. Open VS Code
