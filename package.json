@@ -5,7 +5,8 @@
   "description": "API Wrapper for BrawlAPI",
   "main": "index.js",
   "directories": {
-    "src": "src"
+    "src": "src",
+    "example": "examples"
   },
   "repository": {
     "type": "git",
