@@ -1,0 +1,21 @@
+{
+    "list": [
+        {
+            "id": 15,
+            "name": "Hot Zone",
+            "hash": "Hot-Zone",
+            "disabled": false,
+            "color": "#e33752",
+            "version": 1,
+            "title": "Control the Zones!",
+            "tutorial": "Control the Hot Zones to win! Establish control and earn points by being inside a zone while keeping opponents out. When the time runs out, the team with the most points wins! Watch out for the double points in the final moments.",
+            "description": "Control the Hot Zones!",
+            "shortDescription": "Control the Zones!",
+            "sort1": 16,
+            "sort2": 16,
+            "link": "https://brawlify.com/gamemodes/detail/Hot-Zone",
+            "imageUrl": "https://cdn.brawlify.com/gamemode/Hot-Zone.png?v=1",
+            "imageUrl2": "https://cdn.brawlify.com/gamemode/header/Hot-Zone.png?v=1"
+        }
+    ]
+}
