@@ -1,0 +1,146 @@
+{
+    "active": [
+        {
+            "slot": {
+                "id": 1,
+                "name": "Gem Grab",
+                "hash": "Gem-Grab",
+                "listAlone": false,
+                "hideable": false,
+                "hideForSlot": null,
+                "background": null
+            },
+            "startTime": "2021-03-04T08:00:00.000Z",
+            "endTime": "2021-03-05T08:00:00.000Z",
+            "reward": 5,
+            "map": {
+                "id": 15000009,
+                "new": false,
+                "disabled": false,
+                "name": "Deathcap Trap",
+                "hash": "Deathcap-Trap-2",
+                "version": 8,
+                "link": "https://brawlify.com/maps/detail/Deathcap-Trap-2",
+                "imageUrl": "https://cdn.brawlify.com/map/Deathcap-Trap-2.png?v=8",
+                "credit": null,
+                "environment": {
+                    "id": 55,
+                    "name": "StarrForce",
+                    "hash": "event_starr_force_banner",
+                    "path": "Starr-Force",
+                    "version": 1,
+                    "imageUrl": "https://cdn.brawlify.com/environment/Starr-Force.png?v=1"
+                },
+                "gameMode": {
+                    "id": 2,
+                    "name": "Gem Grab",
+                    "hash": "Gem-Grab",
+                    "version": 1,
+                    "color": "#660066",
+                    "link": "https://brawlify.com/gamemodes/detail/Gem-Grab",
+                    "imageUrl": "https://cdn.brawlify.com/gamemode/Gem-Grab.png?v=1"
+                },
+                "lastActive": 1614931200,
+                "dataUpdated": 1614867644,
+                "stats": [
+                    {
+                        "brawler": "16000044",
+                        "winRate": 69.6941,
+                        "useRate": 3.17662,
+                        "starRate": 1.71726
+                    }
+                ],
+                "teamStats": [
+                    {
+                        "name": "Leon, 8-Bit & Mr. P",
+                        "hash": "Leon+8-Bit+Mr.P",
+                        "brawler1": 16000023,
+                        "brawler2": 16000027,
+                        "brawler3": 16000031,
+                        "data": {
+                            "winRate": "82.10291",
+                            "useRate": "0.68099",
+                            "wins": 367,
+                            "losses": 80,
+                            "draws": 0,
+                            "total": 447
+                        }
+                    }
+                ]
+            },
+            "modifier": null
+        }
+    ],
+    "upcoming": [
+        {
+            "slot": {
+                "id": 1,
+                "name": "Gem Grab",
+                "hash": "Gem-Grab",
+                "listAlone": false,
+                "hideable": false,
+                "hideForSlot": null,
+                "background": null
+            },
+            "startTime": "2021-03-05T08:00:00.000Z",
+            "endTime": "2021-03-06T08:00:00.000Z",
+            "reward": 5,
+            "map": {
+                "id": 15000008,
+                "new": false,
+                "disabled": false,
+                "name": "Crystal Arcade",
+                "hash": "Crystal-Arcade",
+                "version": 5,
+                "link": "https://brawlify.com/maps/detail/Crystal-Arcade",
+                "imageUrl": "https://cdn.brawlify.com/map/Crystal-Arcade.png?v=5",
+                "credit": null,
+                "environment": {
+                    "id": 21,
+                    "name": "Arcade",
+                    "hash": "event_arcade_banner",
+                    "path": "Arcade",
+                    "version": 2,
+                    "imageUrl": "https://cdn.brawlify.com/environment/Arcade.png?v=2"
+                },
+                "gameMode": {
+                    "id": 2,
+                    "name": "Gem Grab",
+                    "hash": "Gem-Grab",
+                    "version": 1,
+                    "color": "#660066",
+                    "link": "https://brawlify.com/gamemodes/detail/Gem-Grab",
+                    "imageUrl": "https://cdn.brawlify.com/gamemode/Gem-Grab.png?v=1"
+                },
+                "lastActive": 1615017600,
+                "dataUpdated": 1614043631,
+                "stats": [
+                    {
+                        "brawler": "16000044",
+                        "winRate": 71.246,
+                        "useRate": 1.20931,
+                        "starRate": 0.276056
+                    }
+                ],
+                "teamStats": [
+                    {
+                        "name": "8-Bit, Sandy & Colonel Ruffs",
+                        "hash": "8-Bit+Sandy+Colonel-Ruffs",
+                        "brawler1": 16000027,
+                        "brawler2": 16000028,
+                        "brawler3": 16000044,
+                        "data": {
+                            "winRate": "96.11231",
+                            "useRate": "0.66764",
+                            "wins": 445,
+                            "losses": 18,
+                            "draws": 0,
+                            "total": 463
+                        }
+                    }
+                ]
+            },
+            "modifier": null
+        }
+    ]
+}
