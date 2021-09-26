@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "id": 15000000,
+            "new": false,
+            "disabled": true,
+            "name": "Temple Ruins",
+            "hash": "Temple-Ruins",
+            "version": 6,
+            "link": "https://brawlify.com/maps/detail/Temple-Ruins",
+            "imageUrl": "https://cdn.brawlify.com/map/Temple-Ruins.png?v=6",
+            "credit": null,
+            "environment": {
+                "id": 42,
+                "name": "DarrylsShip",
+                "hash": "event_pirates_banner",
+                "path": "Pirates",
+                "version": 1,
+                "imageUrl": "https://cdn.brawlify.com/environment/Pirates.png?v=1"
+            },
+            "gameMode": {
+                "id": 1,
+                "name": "Bounty",
+                "hash": "Bounty",
+                "version": 1,
+                "color": "#10b2b7",
+                "link": "https://brawlify.com/gamemodes/detail/Bounty",
+                "imageUrl": "https://cdn.brawlify.com/gamemode/Bounty.png?v=1"
+            },
+            "lastActive": 1566180000,
+            "dataUpdated": null
+        }
+    ]
+}
