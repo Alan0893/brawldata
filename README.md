@@ -82,7 +82,7 @@ const icons = client.getIcons()
 * In addition to the methods, you can also access specific properties, which can be found [here](https://brawlapi.com/#/)
 * Official documentation of BrawlAPI can be found at: https://brawlapi.com/#/
 * Usage: https://brawlapi.com/#/Authentication
-* Errors Handling: https://brawlapi.com/#/Errors
+* Error Handling: https://brawlapi.com/#/Errors
 
 **__Some endpoints contain very CPU-intensive data, such as solo or team statistics. Due to the nature of how expensive and time-intensive the collection and maintenance of this data is, [Brawlify](https://brawlify.com/) asks you to credit the source of the data and not create the impression that your application collects this data.__**
 Endpoints include, but are not limited to:
