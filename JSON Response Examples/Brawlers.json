@@ -1,0 +1,79 @@
+{
+    "list": [
+        {
+            "id": 16000038,
+            "avatarId": 28000053,
+            "name": "Surge",
+            "hash": "Surge",
+            "path": "Surge",
+            "released": true,
+            "version": 1,
+            "link": "https://brawlify.com/brawlers/detail/Surge",
+            "imageUrl": "https://cdn.brawlify.com/brawler/Surge.png?v=1",
+            "imageUrl2": "https://cdn.brawlify.com/brawler-bs/Surge.png?v=1",
+            "imageUrl3": "https://cdn.brawlify.com/emoji/Surge.png?v=1",
+            "class": {
+                "id": 1,
+                "name": "Fighter"
+            },
+            "rarity": {
+                "id": 7,
+                "name": "Chromatic",
+                "color": "#f88f25"
+            },
+            "unlock": null,
+            "description": "He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in two on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!",
+            "starPowers": [
+                {
+                    "id": 23000283,
+                    "name": "To The Max!",
+                    "path": "To-The-Max",
+                    "version": 1,
+                    "description": "Surge's main attack now splits when hitting walls or when reaching max distance.",
+                    "imageUrl": "https://cdn.brawlify.com/star-powers/To-The-Max.png?v=1",
+                    "released": true
+                },
+                {
+                    "id": 23000284,
+                    "name": "Serve Ice Cold",
+                    "path": "Serve-Ice-Cold",
+                    "version": 1,
+                    "description": "Surge keeps his STAGE 1 Super upgrade for the full match duration.",
+                    "imageUrl": "https://cdn.brawlify.com/star-powers/Serve-Ice-Cold.png?v=1",
+                    "released": true
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000285,
+                    "name": "Power Surge",
+                    "path": "Power-Surge",
+                    "version": 1,
+                    "description": "Surge overloads his circuits and teleports a short distance forward.",
+                    "imageUrl": "https://cdn.brawlify.com/gadgets/Power-Surge.png?v=1",
+                    "released": true
+                }
+            ],
+            "videos": [
+                {
+                    "type": 0,
+                    "name": "Surge's Main Attack",
+                    "description": "Check out how Surge attacks.",
+                    "duration": "PT3S",
+                    "videoUrl": "https://cdn.brawlify.com/videos/Surge-Main-Attack.mp4?v=1",
+                    "previewUrl": "https://cdn.brawlify.com/videos/preview/Surge-Main-Attack.jpg?v=1",
+                    "uploadDate": "2020-07-09T00:00:00.000Z"
+                },
+                {
+                    "type": 1,
+                    "name": "Surge's Super Attack",
+                    "description": "Check out how Surge uses the Super.",
+                    "duration": "PT4S",
+                    "videoUrl": "https://cdn.brawlify.com/videos/Surge-Super.mp4?v=1",
+                    "previewUrl": "https://cdn.brawlify.com/videos/preview/Surge-Super.jpg?v=1",
+                    "uploadDate": "2020-07-09T00:00:00.000Z"
+                }
+            ]
+        }
+    ]
+}
