@@ -1,0 +1,16 @@
+{
+    "player": {
+        "28000000": {
+            "id": 28000000,
+            "imageUrl": "https://cdn.brawlify.com/profile/28000000.png?v=1",
+            "imageUrl2": "https://cdn.brawlify.com/profile-low/28000000.png?v=1",
+            "brawler": null
+        }
+    },
+    "club": {
+        "8000000": {
+            "id": 8000000,
+            "imageUrl": "https://cdn.brawlify.com/club/8000000.png?v=1"
+        }
+    }
+}
