@@ -1,0 +1,23 @@
+{
+    "16000000": [
+        {
+            "brawler": 16000000,
+            "current": 2002,
+            "best": 2002,
+            "achieved_at": "2021-03-06T00:28:05.000Z",
+            "player": {
+                "tag": "22LVPVJQ9",
+                "verified": 0,
+                "name": "pongdalong",
+                "hash": null,
+                "nameColor": "f9c908",
+                "icon": {
+                    "id": 28000017
+                },
+                "club": {
+                    "tag": "UPC2Y8P9"
+                }
+            }
+        }
+    ]
+}
