@@ -71,6 +71,13 @@ const icons = client.getIcons()
   * getPlayerIconById(id)
   * getClubIconById(id)
 
+## Errors
+|Code	| Message |
+| --- | --- |
+|200 |	OK - Response was successfully fetched.|
+|403	| Forbidden - Resource not found, check URL parameters.|
+|5XX | Cloudflare errors.|
+
 ## Additional Information
 * In addition to the methods, you can also access specific properties, which can be found [here](https://brawlapi.com/#/)
 * Official documentation of BrawlAPI can be found at: https://brawlapi.com/#/
