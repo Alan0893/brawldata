@@ -25,7 +25,7 @@ const client = new brawldata.Client()
   */
   
   //Fetches the Maps endpoint
-  https://brawlapi.com/#/endpoints/maps
+  //https://brawlapi.com/#/endpoints/maps
   const maps = client.getMaps()
   /**
   * AVAILABLE METHODS
