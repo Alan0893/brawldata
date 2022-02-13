@@ -4,7 +4,7 @@ const client = new brawldata.Client()
 ;(async() => {
   //Fetches the Events endpoint
   //https://brawlapi.com/#/endpoints/events
-  const events = client.getEvents()
+  const events = await client.getEvents()
   /**
   * AVAILABLE METHODS
   * getActiveMapBySlot(slot)
@@ -13,7 +13,7 @@ const client = new brawldata.Client()
   
   //Fetches the Brawlers endpoint
   //https://brawlapi.com/#/endpoints/brawlers
-  const brawlers = client.getBrawlers()
+  const brawlers = await client.getBrawlers()
   /**
   * AVAILABLE METHODS
   * getBrawlerByName(name)
@@ -26,7 +26,7 @@ const client = new brawldata.Client()
   
   //Fetches the Maps endpoint
   //https://brawlapi.com/#/endpoints/maps
-  const maps = client.getMaps()
+  const maps = await client.getMaps()
   /**
   * AVAILABLE METHODS
   * getMapByName(name)
@@ -36,7 +36,7 @@ const client = new brawldata.Client()
   
   //Fetches the Modes endpoint
   //https://brawlapi.com/#/endpoints/gamemodes
-  const modes = client.getModes()
+  const modes = await client.getModes()
   /**
   * AVAILABLE METHODS
   * getModesById(slot)
@@ -44,7 +44,7 @@ const client = new brawldata.Client()
   
   //Fetches the Records endpoint
   //https://brawlapi.com/#/endpoints/records
-  const records = client.getRecords()
+  const records = await client.getRecords()
   /**
   * AVAILABLE METHODS
   * getRecordById(id)
