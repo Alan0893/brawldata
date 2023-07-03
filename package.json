@@ -1,6 +1,6 @@
   
 {
-  "name": "brawldata",
+  "name": "brawldata.js",
   "version": "1.0.1",
   "description": "API Wrapper for BrawlAPI",
   "main": "index.js",
@@ -29,5 +29,8 @@
   },
   "scripts": {
     "test": "node examples/test.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
