@@ -38,13 +38,13 @@ class HTTP {
     return await this.requestAsync(`gamemodes`)
   }
   
-  async getRecords() {
-    return await this.requestAsync(`records`)
-  }
-  
   async getIcons() {
     return await this.requestAsync(`icons`)
   }
+
+  /*async getRecords() {
+    return await this.requestAsync(`records`)
+  }*/
 }
 
 module.exports = HTTP

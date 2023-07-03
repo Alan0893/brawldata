@@ -41,22 +41,23 @@ const client = new brawldata.Client()
   * AVAILABLE METHODS
   * getModesById(slot)
   */
-  
-  //Fetches the Records endpoint
-  //https://brawlapi.com/#/endpoints/records
-  const records = await client.getRecords()
-  /**
-  * AVAILABLE METHODS
-  * getRecordById(id)
-  */
-  
+
   //Fetches the Icons endpoint
   //https://brawlapi.com/#/endpoints/icons
-  const icons = client.getIcons()
+  const icons = await client.getIcons()
   /**
   * AVAILABLE METHODS
   * getPlayerIconById(id)
   * getClubIconById(id)
+  */
+  
+  // REMOVED ----------------------------------
+  //Fetches the Records endpoint
+  //https://brawlapi.com/#/endpoints/records
+  //const records = await client.getRecords()
+  /**
+  * AVAILABLE METHODS
+  * getRecordById(id)
   */
 
   /** 
