@@ -56,13 +56,6 @@ const modes = client.getModes()
   **AVAILABLE METHODS**
   * getModesById(slot)
   
-**__[Records Endpoint](https://brawlapi.com/#/endpoints/records):__**
-```javascript
-const records = client.getRecords()
-```
-  **AVAILABLE METHODS**
-  * getRecordById(id)
-  
 **__[Icons Endpoint](https://brawlapi.com/#/endpoints/icons):__**
 ```javascript
 const icons = client.getIcons()
