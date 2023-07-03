@@ -1,7 +1,7 @@
   
 {
-  "name": "brawldata.js",
-  "version": "1.0.1",
+  "name": "@Alan0893/brawldata.js",
+  "version": "1.0.3",
   "description": "API Wrapper for BrawlAPI",
   "main": "index.js",
   "directories": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alan0893/brawldata.git"
+    "url": "git+https://github.com/Alan0893/brawldata.js.git"
   },
   "keywords": [
     "Brawlstars",
@@ -21,9 +21,9 @@
   "author": "@Alan0893",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Alan0893/brawldata/issues"
+    "url": "https://github.com/Alan0893/brawldata.js/issues"
   },
-  "homepage": "https://github.com/Alan0893/brawldata#readme",
+  "homepage": "https://github.com/Alan0893/brawldata.js#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
   },

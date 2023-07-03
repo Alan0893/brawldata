@@ -1,4 +1,4 @@
-# DEPRECATED - brawldata.js
+# brawldata.js
 **API Wrapper for BrawlAPI.**
 
 ## Getting Started
